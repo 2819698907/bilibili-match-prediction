@@ -124,7 +124,7 @@ bilibili-match-prediction
 
 3.在Telegram中搜索userinfobot，并给它发送一条消息，它会返回给你chatid。
 
-4.在Github Secrets中删除SERVERPUSHKEY，添加TELEGRAMBOTTOKEN，TELEGRAMCHATID。
+4. 在Github Secrets中删除SERVERPUSHKEY，添加TELEGRAMBOTTOKEN，TELEGRAMCHATID。
 
 ## 免责声明
 
